@@ -1,0 +1,10 @@
+{
+  "name": "ncu-test-v2",
+  "description": "A package that never is published beyond v2.0.0",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "url": "https://github.com/raineorshine"
+  },
+  "license": "ISC"
+}
